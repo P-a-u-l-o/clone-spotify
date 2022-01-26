@@ -1,4 +1,4 @@
-# clone-spotify
+# Clone Landing page Spotify com Bootstrap 4
 
 Projeto realizado com finalidade didática, este projeto foi desenvolvido com o framework bootstrap em sua versão 4.6.
 Com a realização deste projeto é possível aprimorar diversos conhecimentos aprofundados da ferramenta, desde simples estilizações
